@@ -1,4 +1,8 @@
-# Example for Conflict
+
+# Example for Conflicts
+Name: Bevin   
+Favorite Ice Cream: Lemon  
+Favorite Candy: KitKat Orange 
 Name: Julia
 Favorite Ice Cream: pistachio
 Favorite Candy: Hershey��s kisses
