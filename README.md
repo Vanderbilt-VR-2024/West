@@ -21,3 +21,6 @@ Favorite Candy: Twist
 Name: Louis   
 Favorite Ice Cream: Lemon  
 Favorite Candy: KitKat Orange 
+Name: Jeff   
+Favorite Ice Cream: Pecan  
+Favorite Candy: Dark Chocolate Hershey
