@@ -1,5 +1,5 @@
 # Example for Conflicts
 
-Name: Bobby  
-Favorite Ice Cream: Rum Raisin  
-Favorite Candy: Candy Corn 
+Name: Adam
+Favorite Ice Cream: Cookie Dough
+Favorite Candy: Starburst
